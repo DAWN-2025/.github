@@ -1,8 +1,12 @@
 # DAWN - Dark Tourism with AI Navigation
 
 [![Demo Video](https://img.shields.io/badge/-Demo%20Video-red)](https://youtu.be/xGadBd0Dcfg)
-
+&nbsp;
 [![App Prototype Guide](https://img.shields.io/badge/-App%20Prototype%20Guide-blue)](https://github.com/DAWN-2025/dawn_frontend/wiki/App-Prototype-Guide)
+&nbsp;
+[![dawn_backend Repository](https://img.shields.io/badge/-dawn_backend-green?logo=github)](https://github.com/DAWN-2025/dawn_backend)
+&nbsp;
+[![dawn_frontend Repository (Flutter)](https://img.shields.io/badge/-dawn_frontend%20(Flutter)-blue?logo=github)](https://github.com/DAWN-2025/dawn_frontend)
 
 
 > *"Those who do not remember the past are condemned to repeat it."*
