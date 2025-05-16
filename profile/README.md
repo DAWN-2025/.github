@@ -2,6 +2,9 @@
 
 [![Demo Video](https://img.shields.io/badge/-Demo%20Video-red)](https://youtu.be/xGadBd0Dcfg)
 
+[![App Prototype Guide](https://img.shields.io/badge/-App%20Prototype%20Guide-blue)](https://github.com/DAWN-2025/dawn_frontend/wiki/App-Prototype-Guide)
+
+
 > *"Those who do not remember the past are condemned to repeat it."*
 > — George Santayana
 
@@ -28,12 +31,12 @@ Users interact with AI-generated personas, experience site-based reconstructions
 
 # 📂 Table of Contents
 
-* [Solution Challenge Theme](#solution-challenge-theme)
-* [Architecture](#architecture)
-* [Core Concept](#core-concept)
-* [Tech Stack](#tech-stack)
-* [How to Run](#how-to-run)
-* [Team](#team-dawn)
+* Solution Challenge Theme
+* Architecture
+* Core Concept
+* Tech Stack
+* How to Run
+* Team
 
 ---
 # Solution Challenge Theme
